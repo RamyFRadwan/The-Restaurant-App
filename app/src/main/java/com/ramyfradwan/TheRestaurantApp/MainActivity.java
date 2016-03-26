@@ -1,4 +1,4 @@
-package com.ramyfradwan.justjava;
+package com.ramyfradwan.TheRestaurantApp;
 
 import android.content.Context;
 import android.os.Bundle;
